@@ -1,48 +1,4 @@
-### Инструкция по настройке статистики GitHub README
-
-## Баннеры и статистика
-
-### 1. GitHub Stats Cards
-Вставьте в README:
-```markdown
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН_GITHUB&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-```
-
-### 2. Топ языков
-```markdown
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН_GITHUB&layout=compact&theme=dark&hide_border=true)
-```
-
-### 3. Streak Stats
-```markdown
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_ЛОГИН_GITHUB&theme=dark&hide_border=true)
-```
-
-### 4. Трофеи GitHub
-```markdown
-![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=ВАШ_ЛОГИН_GITHUB&theme=dark&no-frame=true&row=1&column=7)
-```
-
-## Пошаговая инструкция
-
-1. Создайте репозиторий с именем, совпадающим с вашим GitHub-логином
-2. В этом репозитории создайте файл README.md
-3. Вставьте код выше, заменив ВАШ_ЛОГИН_GITHUB на ваш реальный логин
-4. Закоммитьте и запушьте изменения
-
-### Дополнительные настройки
-
-- Выберите theme: dark, radical, merko, gruvbox и др.
-- Настройте параметры через query-параметры в ссылках
-
-### Виды тем для статистики
-- dark
-- radical
-- merko
-- gruvbox
-- tokyonight
-- onedark
-- cobalt
+# GvVictory/README.md
 
 ## Привет, я Василий 👋
 
@@ -50,14 +6,22 @@
 
 Моё основное направление — backend-разработка на Python с использованием Django и FastAPI.
 
-Мой основной стек: Python, Django, FastAPI, PostgreSQL, Docker, Pytest, Git, Nginx, CI/CD, SQLAlchemy 2.0.
+Мой основной стек:  
+Backend: Python, Django, Django REST Framework, FastAPI  
+Базы данных: SQL, PostgreSQL 
+Безопасность и авторизация: JWT, OAuth2  
+DevOps и деплой: Docker, Nginx, CI/CD, Git
+Тестирование: Pytest
+Документирование: OpenAPI (Swagger, ReDoc)
 
-Также знаком(применял в пет проектах): Redis, Celery, sqlalchemy, alembic, WebSocket.
+Также знаком(применял в пет проектах): 
+Redis, Celery, alembic, WebSocket, SQLAlchemy 2.0, Alembic, asyncio
 
-Сейчас работаю над своим пет-проектом — сервисом для управления заказами: [OrderFlow-API](https://github.com/EVA666999/OrderFlow-API). Проект включает авторизацию через Яндекс, аналитику и интеграцию с внешними сервисами такими как система оплат Youmoney.
+Сейчас работаю над своим пет-проектом — сервисом для управления заказами: [OrderFlow-API](https://github.com/EVA666999/OrderFlow-API). Этот проект представляет собой API для управления заказами и продуктами.
+
+Включает авторизацию через Яндекс, аналитику, и интеграцию с внешними сервисами такими как система оплат Youmoney.
 
 Продолжаю обучаться и прохожу новые курсы, чтобы расширять знания и оставаться в теме. На данный момент завершил:
-
 - Погружаемся в SQLAlchemy на Python
     
 - Практический курс по SQL и PostgreSQL
@@ -65,3 +29,28 @@
 - Быстрый старт в FastAPI Python
     
 Сейчас активно развиваюсь через курсы и создание новых пет-проектов. Стараюсь каждое новое знание сразу внедрять в практику.
+
+### 🔥 Мои Stats:
+<div align="center">
+    <img alt="Total Contributions" src="https://img.shields.io/badge/Total%20Contributions-458-blue?style=for-the-badge" />
+    <img alt="Week Streak" src="https://img.shields.io/badge/Week%20Streak-13-green?style=for-the-badge" />
+    <img alt="Longest Week Streak" src="https://img.shields.io/badge/Longest%20Week%20Streak-13-orange?style=for-the-badge" />
+</div>
+
+### 🌐 Мои языки:
+<div align="center">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-45.75%25-yellow?style=for-the-badge" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-34.08%25-blue?style=for-the-badge" />
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-5.36%25-red?style=for-the-badge" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-11.00%25-green?style=for-the-badge" />
+</div>
+
+### 📊 GitHub Статистика:
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=EVA666999&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+### 🏆 Статистика вклада:
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=EVA666999&theme=radical" alt="GitHub Trophies" />
+</div>
