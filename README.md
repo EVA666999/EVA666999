@@ -1,9 +1,10 @@
 # GvVictory/README.md
 
-## Привет, я Василий 👋
+![Баннер профиля](https://placeholder.com/banner)
 
-Привет! Меня зовут Василий, я backend-разработчик из Санкт-Петербурга c опытом 2.5 лет.
+## Привет! Меня зовут Василий, я backend-разработчик из Санкт-Петербурга c опытом 2.5 лет.
 
+### 👤 Обо мне:
 Моё основное направление — backend-разработка на Python с использованием Django и FastAPI.
 
 Мой основной стек:  
@@ -18,10 +19,10 @@ DevOps и деплой: Docker, Nginx, CI/CD, Git
 Redis, Celery, alembic, WebSocket, SQLAlchemy 2.0, Alembic, asyncio
 
 Сейчас работаю над своим пет-проектом — сервисом для управления заказами: [OrderFlow-API](https://github.com/EVA666999/OrderFlow-API). Этот проект представляет собой API для управления заказами и продуктами.
-
 Включает авторизацию через Яндекс, аналитику, и интеграцию с внешними сервисами такими как система оплат Youmoney.
 
 Продолжаю обучаться и прохожу новые курсы, чтобы расширять знания и оставаться в теме. На данный момент завершил:
+
 - Погружаемся в SQLAlchemy на Python
     
 - Практический курс по SQL и PostgreSQL
@@ -30,27 +31,23 @@ Redis, Celery, alembic, WebSocket, SQLAlchemy 2.0, Alembic, asyncio
     
 Сейчас активно развиваюсь через курсы и создание новых пет-проектов. Стараюсь каждое новое знание сразу внедрять в практику.
 
-### 🔥 Мои Stats:
-<div align="center">
-    <img alt="Total Contributions" src="https://img.shields.io/badge/Total%20Contributions-458-blue?style=for-the-badge" />
-    <img alt="Week Streak" src="https://img.shields.io/badge/Week%20Streak-13-green?style=for-the-badge" />
-    <img alt="Longest Week Streak" src="https://img.shields.io/badge/Longest%20Week%20Streak-13-orange?style=for-the-badge" />
-</div>
+### 🛠️ Языки и инструменты:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🌐 Мои языки:
-<div align="center">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-45.75%25-yellow?style=for-the-badge" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-34.08%25-blue?style=for-the-badge" />
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-5.36%25-red?style=for-the-badge" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-11.00%25-green?style=for-the-badge" />
-</div>
+### 📊 Мои Stats:
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### 📊 GitHub Статистика:
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EVA666999&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+
+### 📫 Как связаться:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 ### 🏆 Статистика вклада:
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=EVA666999&theme=radical" alt="GitHub Trophies" />
-</div>
+![Статистика вкладов](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
