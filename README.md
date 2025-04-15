@@ -36,7 +36,7 @@ Redis, Celery, alembic, WebSocket, SQLAlchemy 2.0, Alembic, asyncio
 ![Фреймворки](https://img.shields.io/badge/Django-75%25-green?style=for-the-badge&logo=django)
 ![Фреймворки](https://img.shields.io/badge/FastAPI-25%25-blue?style=for-the-badge&logo=fastapi)
 
-### 📊 Мои Stats:
+### 📊 Stats:
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=EVA666999&show_icons=true&theme=radical)
 ### 📫 Как связаться:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kretsu-vasile)
