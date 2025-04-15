@@ -38,8 +38,10 @@ Redis, Celery, alembic, WebSocket, SQLAlchemy 2.0, Alembic, asyncio
 
 ### 📊 Stats:
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=EVA666999&show_icons=true&theme=radical)
+
+### 🏆 Статистика вклада:
+![Статистика вкладов](https://github-profile-trophy.vercel.app/?username=EVA666999&theme=radical)
+
 ### 📫 Как связаться:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kretsu-vasile)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Vasilexretsu)
-### 🏆 Статистика вклада:
-![Статистика вкладов](https://github-profile-trophy.vercel.app/?username=EVA666999&theme=radical)
