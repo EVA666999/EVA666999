@@ -33,7 +33,7 @@ Redis, Celery, alembic, WebSocket, SQLAlchemy 2.0, Alembic, asyncio
 ### 📊 Языки программирования:
 ![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=EVA666999&layout=compact&langs_count=5)
 
-![Фреймворки](https://img.shields.io/badge/Django-75%75-green?style=for-the-badge&logo=django)
+![Фреймворки](https://img.shields.io/badge/Django-75%25-green?style=for-the-badge&logo=django)
 ![Фреймворки](https://img.shields.io/badge/FastAPI-25%25-blue?style=for-the-badge&logo=fastapi)
 
 ### 📊 Мои Stats:
