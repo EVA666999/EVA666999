@@ -1,40 +1,67 @@
-# GvVictory/README.md
+### Инструкция по настройке статистики GitHub README
 
-![Баннер профиля](https://placeholder.com/banner)
+## Баннеры и статистика
+
+### 1. GitHub Stats Cards
+Вставьте в README:
+```markdown
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН_GITHUB&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+```
+
+### 2. Топ языков
+```markdown
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН_GITHUB&layout=compact&theme=dark&hide_border=true)
+```
+
+### 3. Streak Stats
+```markdown
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_ЛОГИН_GITHUB&theme=dark&hide_border=true)
+```
+
+### 4. Трофеи GitHub
+```markdown
+![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=ВАШ_ЛОГИН_GITHUB&theme=dark&no-frame=true&row=1&column=7)
+```
+
+## Пошаговая инструкция
+
+1. Создайте репозиторий с именем, совпадающим с вашим GitHub-логином
+2. В этом репозитории создайте файл README.md
+3. Вставьте код выше, заменив ВАШ_ЛОГИН_GITHUB на ваш реальный логин
+4. Закоммитьте и запушьте изменения
+
+### Дополнительные настройки
+
+- Выберите theme: dark, radical, merko, gruvbox и др.
+- Настройте параметры через query-параметры в ссылках
+
+### Виды тем для статистики
+- dark
+- radical
+- merko
+- gruvbox
+- tokyonight
+- onedark
+- cobalt
 
 ## Привет, я Василий 👋
 
-### 👤 Обо мне:
-Я Backend-разработчик из Санкт-Петербурга. Работаю как Software Engineer, специализируясь на backend-разработке с использованием Python. В свободное время решаю задачи на LeetCode и читаю технические статьи.
+Привет! Меня зовут Василий, я backend-разработчик из Санкт-Петербурга c опытом 2.5 лет.
 
-### 🛠️ Языки и инструменты:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+Моё основное направление — backend-разработка на Python с использованием Django и FastAPI.
 
-### 📊 Мои Stats:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+Мой основной стек: Python, Django, FastAPI, PostgreSQL, Docker, Pytest, Git, Nginx, CI/CD, SQLAlchemy 2.0.
 
-### 🔥 Мои проекты:
-#### [OrderFlow-API](https://github.com/EVA666999/OrderFlow-API)
-Сервис для управления заказами с авторизацией через Яндекс, аналитикой и интеграцией с платежными системами.
+Также знаком(применял в пет проектах): Redis, Celery, sqlalchemy, alembic, WebSocket.
 
-### 📚 Пройденные курсы:
+Сейчас работаю над своим пет-проектом — сервисом для управления заказами: [OrderFlow-API](https://github.com/EVA666999/OrderFlow-API). Проект включает авторизацию через Яндекс, аналитику и интеграцию с внешними сервисами такими как система оплат Youmoney.
+
+Продолжаю обучаться и прохожу новые курсы, чтобы расширять знания и оставаться в теме. На данный момент завершил:
+
 - Погружаемся в SQLAlchemy на Python
+    
 - Практический курс по SQL и PostgreSQL
+    
 - Быстрый старт в FastAPI Python
-
-### 📫 Как связаться:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kretsu-vasile)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Vasilexretsu)
-
-### 🏆 Статистика вклада:
-![Статистика вкладов](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
-
----
-⭐️ Из Санкт-Петербурга с любовью к коду 💻
+    
+Сейчас активно развиваюсь через курсы и создание новых пет-проектов. Стараюсь каждое новое знание сразу внедрять в практику.
