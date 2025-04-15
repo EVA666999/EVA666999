@@ -31,7 +31,7 @@ Redis, Celery, alembic, WebSocket, SQLAlchemy 2.0, Alembic, asyncio
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 📊 Языки программирования:
-![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=EVA666999&layout=compact&langs_count=10)
+![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=EVA666999&layout=compact&langs_count=5)
 
 ### 📊 Мои Stats:
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=EVA666999&show_icons=true&theme=radical)
